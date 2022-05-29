@@ -4,5 +4,4 @@ LABEL org.opencontainers.image.source https://github.com/cyb3rgh05t/streamnet.cl
 RUN apt-get update
 RUN apt-get install nginx -y
 COPY . /usr/share/nginx/html
-EXPOSE 8050
 CMD ["nginx","-g","daemon off;"]
