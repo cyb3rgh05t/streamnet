@@ -1,7 +1,8 @@
 <p align="center">
     <a href="https://streamnet.club">
-      <img src="https://github.com/cyb3rgh05t/streamnet.club/blob/main/assets/img/logo-navbar.png?raw=true" alt="Join StreamNet community">
+      <img src="https://github.com/cyb3rgh05t/streamnet.club/blob/main/assets/img/logo-header.png?raw=true" alt="Join StreamNet community">
     </a>
+    </br>
     </br>
     <a href="https://discord.gg/gUmHCurE4g">
         <img src="https://discord.com/api/guilds/417939816450228225/widget.png?label=Discord%20Server&logo=discord" alt="Join StreamNet on Discord">
