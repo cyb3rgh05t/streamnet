@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://streamnet.club">
-      <img src="https://github.com/cyb3rgh05t/streamnet.club/blob/main/assets/img/logo-header.png?raw=true" alt="Join StreamNet community">
+      <img src="assets/img/logo-header.png" alt="Join StreamNet community">
     </a>
     </br>
     </br>
@@ -20,6 +20,6 @@
 	 	 StreamNet ist ein täglich aktualisierter deutsch / englischer Medienserver für Ihre Plex Umgebung. Melden Sie sich an und erhalten Sie Zugang zu einer riesigen Medienbibliothek mit Filmen und Fernsehsendungen.
    </p>
    
-   <img src="https://github.com/cyb3rgh05t/streamnet.club/blob/main/assets/img/movie.png?raw=true" alt="Join StreamNet on Discord">
+   <img src="assets/img/movie.png" alt="Join StreamNet on Discord">
    
-   <img src="https://github.com/cyb3rgh05t/streamnet.club/blob/main/assets/img/tv.png?raw=true" alt="Join StreamNet on Discord">
+   <img src="assets/img/tv.png" alt="Join StreamNet on Discord">
